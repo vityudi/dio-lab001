@@ -12,6 +12,5 @@ Neste Bootcamp em específico só achei que faltou uma introdução ao Azure Dat
 
 Tive que fazer alguns ajustes no código que foi apresentado na aula para funcionar, mas nada complexo.
 
-![Captura de tela 2025-04-16 171255.png](attachment:8bf8e423-bb36-4363-ae21-f598c8f29580:Captura_de_tela_2025-04-16_171255.png)
-
-![Captura de tela 2025-04-16 172836.png](attachment:8587bd9d-a032-4209-91a6-6eb0e4dc3b71:Captura_de_tela_2025-04-16_172836.png)
+![Captura de tela 2025-04-16 171255](https://github.com/user-attachments/assets/f167c2a4-a10b-4b33-92ba-222d0d0acf7f)
+![Captura de tela 2025-04-16 172836](https://github.com/user-attachments/assets/eda661d6-ab94-49be-af49-7d91697bdf9c)
